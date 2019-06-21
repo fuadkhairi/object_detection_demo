@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Jellyfish</folder>
+  <filename>fe82b4d028cce1e0.jpg</filename>
+  <path>D:\open_images\OIDv4_ToolKit\OID\Dataset\train\Jellyfish\fe82b4d028cce1e0.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>683</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Jellyfish</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>63</xmin>
+      <ymin>300</ymin>
+      <xmax>568</xmax>
+      <ymax>951</ymax>
+    </bndbox>
+  </object>
+</annotation>
