@@ -6,8 +6,8 @@
     <database>Unknown</database>
   </source>
   <size>
-    <width>1024</width>
-    <height>683</height>
+    <width>600</width>
+    <height>600</height>
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
@@ -17,10 +17,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>461</xmin>
-      <ymin>247</ymin>
-      <xmax>762</xmax>
-      <ymax>540</ymax>
+      <xmin>270.0</xmin>
+      <ymin>217.0</ymin>
+      <xmax>446.0</xmax>
+      <ymax>474.0</ymax>
     </bndbox>
   </object>
   <object>
@@ -29,10 +29,10 @@
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>611</xmin>
-      <ymin>15</ymin>
-      <xmax>784</xmax>
-      <ymax>188</ymax>
+      <xmin>358.0</xmin>
+      <ymin>13.0</ymin>
+      <xmax>459.0</xmax>
+      <ymax>165.0</ymax>
     </bndbox>
   </object>
 </annotation>
