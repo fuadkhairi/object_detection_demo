@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BulkResizePhotos</folder>
+	<filename>snapshot23.jpg</filename>
+	<path>C:\Users\Trafalgar D. Law\Downloads\BulkResizePhotos\snapshot23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow jellyfish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>86</ymin>
+			<xmax>520</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
